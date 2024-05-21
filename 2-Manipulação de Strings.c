@@ -14,7 +14,7 @@ int main() {
         }
     }
 
-    printf("O número de vogais na string é: %d\n", count);
+    printf("O número de vogais é: %d\n", count);
 
     return 0;
 }
