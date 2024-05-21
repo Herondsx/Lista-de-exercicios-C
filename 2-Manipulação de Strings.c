@@ -4,7 +4,7 @@ int main() {
     char str[100];
     int count = 0;
 
-    printf("Digite uma string: ");
+    printf("Digite uma palavra: ");
     fgets(str, sizeof(str), stdin);
 
     for (int i = 0; str[i] != '\0'; i++) {
